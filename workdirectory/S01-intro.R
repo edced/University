@@ -133,3 +133,6 @@ mol == "dna" | mol == "rna"
 
 mol[mol %in% c("dna", "rna")]
 # voire in comme un diagrame de venn 
+
+
+# Le vecteur letters et LETTERS contient toutes les lettres, lun en minuscule et lautre en majuscule
